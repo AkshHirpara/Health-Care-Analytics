@@ -18,7 +18,8 @@ Modeling Approach:
 - Used BRFSS Data to develop Hypotheses.
 
 -Model Building with the help of Linear and Logistic Regression.
-Overview of Outcomes:
+
+-Overview of Outcomes:
 
 1- Age Group 33-44 had 13% extra sleep per night as compared to Age Group 18-34 (p-value <0.0001)
 
